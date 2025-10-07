@@ -25,7 +25,7 @@
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/alsharkaoy?tab=repositories)
 
-- 💬 Ask me about (.NET Core)
+- 💬 Ask me about (ML Applications & Testing techniques)
 
 - 📫 How to reach me alsharkaoya@gmail.com 📧 ✌️✌️❤️
 
